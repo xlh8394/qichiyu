@@ -15,7 +15,7 @@ proxy-providers:
       - "Clash"
       - "mihomo"
       - "Clash.meta"
-  Airport1:
+  Airport2:
     url: "机场订阅"
     type: http
     interval: 86400
@@ -29,7 +29,7 @@ proxy-providers:
       - "Clash"
       - "mihomo"
       - "Clash.meta"
-  Airport1:
+  Airport3:
     url: "机场订阅"
     type: http
     interval: 86400
@@ -43,7 +43,7 @@ proxy-providers:
       - "Clash"
       - "mihomo"
       - "Clash.meta"
-  Airport1:
+  Airport4:
     url: "机场订阅"
     type: http
     interval: 86400
